@@ -47,7 +47,7 @@
     <string name="undo">Undo</string>
     <!-- Dialogs -->
     <string name="available_update_sources">Available update sources</string>
-    <string name="confirm_reset_ignored">Are you sure you want to reset ignored apps?</string>
+    <string name="confirm_reset_ignored">Are you sure you want to reset the selection of ignored apps?</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
     <!-- Settings strings -->
