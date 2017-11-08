@@ -47,7 +47,7 @@
     <string name="undo">Undo</string>
     <!-- Dialogs -->
     <string name="available_update_sources">Available update sources</string>
-    <string name="confirm_reset_ignored">Are you sure you want to reset the selection of ignored apps?</string>
+    <string name="confirm_reset_ignored">Are you sure you want to reset the current selection of ignored apps?</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
     <!-- Settings strings -->
@@ -105,7 +105,7 @@
     <string name="pref_acra_disabled">No crash reports will be sent if bugs are encountered.</string>
     <string name="crash_dialog_title">ApkTrack has crashed</string>
     <string name="crash_dialog_text">An unexpected error occurred forcing the application to stop./n 
-    Please help fixing this by sending error data. Just click OK to send.</str
+    Please help fixing this by sending error data. Just click OK to send.</string>
     <string name="crash_dialog_comment_prompt">You may add a comment about this issue below:</string>
     <string name="crash_dialog_ok_toast">Thank you!</string>
     <string name="crash_user_email_label">Your e-mail address, if you wish to be contacted about this error (optional):</string>
