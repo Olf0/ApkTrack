@@ -14,53 +14,6 @@
   ~
   ~ You should have received a copy of the GNU General Public License
   ~ along with ApkTrack.  If not, see <http://www.gnu.org/licenses/>.
-    -->
-<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">ApkTrack</string>
-    <!-- Menu bar strings -->
-    <string name="check_all_apps_desc">Suche nach Aktualisierungen für alle Apps</string>
-    <string name="show_system_apps">Zeige System-Apps</string>
-    <string name="hide_system_apps">Verstecke System-Apps</string>
-    <string name="sort_type_alpha">Sortiere alphabetisch</string>
-    <string name="sort_type_updated">Sortiere nach Status</string>
-    <string name="settings">Einstellungen</string>
-    <string name="search">Durchsuche App-Liste</string>
-    <!-- Notification strings -->
-    <string name="app_updated_notification">%1$s aktualisiert.</string>
-    <string name="apps_updated_notification">Neue Aktualisierungen gefunden.</string>
-    <string name="apps_updated_notification_summary">%1$s und %2$d andere Apps können aktualisiert werden.</string>
-    <string name="app_version_available">Version %1$s ist verfügbar!</string>
-    <string name="app_can_be_updated">%1$s kann aktualisiert werden!</string>
-    <!-- Application status strings -->
-    <string name="no_data_found">Keine Aktualisierungs-Informationen gefunden</string>
-    <string name="network_error">Verbindungs-Fehler</string>
-    <string name="current">Aktuell:</string>
-    <string name="generic_exception">Fehler: %1$s</string>
-    <string name="last_check">Letzte Überprüfung:</string>
-    <string name="never">Nie</string>
-    <!-- Snackbar strings -->
-    <string name="app_will_be_ignored">Diese App wird ab jetzt ignoriert.</string>
-    <string name="undo">Rückgängig</string>
-    <!-- Dialogs -->
-    <string name="available_update_sources">Verfügbare Aktualisierungs-Quellen</string>
-    <string name="confirm_reset_ignored">Ignorierte Apps wirklich zurücksetzen?</string>
-    <string name="ok">OK</string>
-<?xml version="1.0" encoding="utf-8"?>
-    <!--
-  ~ Copyright (c) 2015
-  ~
-  ~ ApkTrack is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License as published by
-  ~ the Free Software Foundation, either version 3 of the License, or
-  ~ (at your option) any later version.
-  ~
-  ~ ApkTrack is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with ApkTrack.  If not, see <http://www.gnu.org/licenses/>.
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">ApkTrack</string>
