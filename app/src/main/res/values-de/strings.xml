@@ -50,7 +50,7 @@
     <string name="general">Allgemeine Einstellungen</string>
     <string name="preferred_search_engine">Bevorzugte Suchmaschine</string>
     <string name="preferred_search_engine_desc">Wähle aus, welche Suchmaschine zum Suchen von APKs benutzt werden soll.\n
- Aktuelle Auswahl: %s</string>
+    Aktuelle Auswahl: %s</string>
     <string name="enable_background_checks">Aktiviere Hintergrund-Überprüfungen</string>
     <string name="enable_background_checks_desc_enabled">Aktualisierungs-Überprüfungen erfolgen täglich.</string>
     <string name="enable_background_checks_desc_disabled">Aktualisierungs-Überprüfungen erfolgen ausschließlich manuell ausgelöst.</string>
@@ -88,7 +88,7 @@
     <string name="socks_proxy_summary">ApkTrack greift über einen SOCKS-Proxy auf das Internet zu.</string>
     <string name="proxy_warning_title">Warnung</string>
     <string name="proxy_warning_text">Zur Zeit werden die Proxy-Einstellungen lediglich für Aktualisierungs-Überprüfungen verwendet.\n
- Für das Herunterladen von APKs wird der systemweite Download-Manager oder ein Web-Browser verwendet, für die ggf. ein anderer oder kein Proxy eingestellt ist.</string>
+    Für das Herunterladen von APKs wird der systemweite Download-Manager oder ein Web-Browser verwendet, für die ggf. ein anderer oder kein Proxy eingestellt ist.</string>
     <!-- Error messages -->
     <string name="search_no_result">Keine Ergebnisse gefunden.</string>
     <string name="cant_handle_view">Keinen Browser gefunden. Bitte besuche http://apktrack.kwiatkowski.fr/privacy</string>
